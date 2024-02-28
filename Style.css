@@ -1,1 +1,13 @@
-
+body
+{
+  background-color:magenta;
+}  
+ p
+      {
+        color:purple;
+       text-align:Left;
+      }
+h1
+{
+  color:purple;
+}
